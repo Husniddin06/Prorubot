@@ -1,0 +1,23 @@
+{
+  "name": "vkmusicx-miniapp",
+  "version": "1.0.0",
+  "description": "VKMUSICX 8D ULTRA Telegram Mini App",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'No build needed'"
+  },
+  "keywords": [
+    "telegram",
+    "miniapp",
+    "music",
+    "8d",
+    "vk",
+    "vercel"
+  ],
+  "author": "VKMUSICX",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
